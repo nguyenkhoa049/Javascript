@@ -1,0 +1,2 @@
+** Nếu bạn muốn tìm vị trí của phần tử hoặc tìm phần tử đó có tồn tại trong mảng hay không, 
+hãy thử sử dụng  Array.prototype.indexOf() or Array.prototype.includes
